@@ -2,7 +2,9 @@
 
 <img align='right' src='https://media.giphy.com/media/xT9IgMVeZBLP1s3doQ/giphy.gif' width='200'>
 
+**Estagiando como desenvolvedor frontend :man_technologist:**
 **Cursando Técnico em Informática :man_technologist:**
+
 
   Ceará - Brasil :earth_americas:
   

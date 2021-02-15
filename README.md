@@ -12,4 +12,6 @@
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pedrorivald)](https://github.com/pedrorivald)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrorivaldev@gmail.com)](mailto:pedrorivaldev@gmail.com)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorivald&layout=compact)](https://github.com/pedrorivald)
+  [![Pedro Rivaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrorivald&hide=contribs,issues&show_icons=true)](htttps://github.com/pedrorivald/github-readme-stats)
+  <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorivald)](https://github.com/pedrorivald)

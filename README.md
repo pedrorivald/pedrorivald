@@ -9,7 +9,9 @@
 <div align="center">
 
   **Estagiando como desenvolvedor frontend :man_technologist:**
-  **Cursando Técnico em Informática :man_technologist:**  
+  
+  **Cursando Técnico em Informática :man_technologist:**
+  
   **Ceará - Brasil :earth_americas:**
   
 </div>
@@ -23,7 +25,7 @@
 
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorivald)](https://github.com/pedrorivald)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorivald&layout=compact)](https://github.com/pedrorivald)
 
 </div>
 

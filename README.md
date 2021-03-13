@@ -1,12 +1,16 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá, me chamo Pedro Rivaldo</h1>
 
-<img align='center' src='https://media.giphy.com/media/xT9IgMVeZBLP1s3doQ/giphy.gif' width='200'>
+<div align="center">
+
+  <img src='https://media.giphy.com/media/xT9IgMVeZBLP1s3doQ/giphy.gif' width='200'>
+
+</div>
 
 <div align="center">
 
-* **Estagiando como desenvolvedor frontend :man_technologist:**
-* **Cursando Técnico em Informática :man_technologist:**  
-* **Ceará - Brasil :earth_americas:**
+  **Estagiando como desenvolvedor frontend :man_technologist:**
+  **Cursando Técnico em Informática :man_technologist:**  
+  **Ceará - Brasil :earth_americas:**
   
 </div>
 

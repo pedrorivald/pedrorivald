@@ -1,6 +1,8 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá, me chamo Pedro Rivaldo</h1>
 
 <div align="center">
+  
+  <h3>Portfólio: <a href="https://pedrorivaldo.vercel.app" target="_blank">pedrorivaldo.vercel.app</a></h3>
 
   <img src='https://media.giphy.com/media/xT9IgMVeZBLP1s3doQ/giphy.gif' width='200'>
 
@@ -34,6 +36,8 @@
   
   [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrorivald)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrorivaldev@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrorivaldo)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_rivald)
   [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pedrorivald)
   
 </div>

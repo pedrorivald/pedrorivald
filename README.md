@@ -10,9 +10,11 @@
 
 <div align="center">
 
-  **Estagiando como desenvolvedor frontend :man_technologist:**
+  **Desenvolvedor frontend :man_technologist:**
   
-  **Cursando Técnico em Informática :man_technologist:**
+  **Cursando Engenharia de Software - UFC :man_technologist:**
+  
+  **Técnico em Informática :man_technologist:**
   
   **Ceará - Brasil :earth_americas:**
   

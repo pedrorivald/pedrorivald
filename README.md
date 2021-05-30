@@ -1,57 +1,36 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá, me chamo Pedro Rivaldo</h1>
+<h1 align="center">Olá, me chamo Pedro Rivaldo <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 <div align="center">
   
   <h3>Portfólio: <a href="https://pedrorivaldo.vercel.app" target="_blank">pedrorivaldo.vercel.app</a></h3>
 
-  <img src='https://media.giphy.com/media/xT9IgMVeZBLP1s3doQ/giphy.gif' width='200'>
-
 </div>
+
+<br>
 
 <div align="center">
 
-  **Desenvolvedor frontend :man_technologist:**
-  
-  **Cursando Engenharia de Software - UFC :man_technologist:**
-  
-  **Técnico em Informática :man_technologist:**
-  
-  **Ceará - Brasil :earth_americas:**
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrorivald&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorivald&layout=compact&langs_count=16&theme=tokyonight"/>
+
 </div>
 
+<br>
+
 <div align="center">
-  
-  ## Stack
   
   ![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-  
-  ## Interesse
-  
   ![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   
-  ## Contato
+  ## Contatos
   
   [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrorivald)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrorivaldev@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrorivaldo)
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro_rivald)
   [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pedrorivald)
-  
-</div>
-
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorivald&layout=compact)](https://github.com/pedrorivald)
-
-</div>
-
-<div align="center">
-  
-  [![Pedro Rivaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrorivald&hide=contribs,issues&show_icons=true)](htttps://github.com/pedrorivald/github-readme-stats)
   
 </div>

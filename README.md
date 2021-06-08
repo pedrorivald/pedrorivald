@@ -3,6 +3,8 @@
 <div align="center">
   
   <h3>Portfólio: <a href="https://pedrorivaldo.vercel.app" target="_blank">pedrorivaldo.vercel.app</a></h3>
+  
+  <p>Cursando Engenharia de Software - UFC</p>
 
 </div>
 

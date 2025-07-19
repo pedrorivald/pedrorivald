@@ -1,5 +1,5 @@
 <h1 align="left">Olá, me chamo Pedro Rivaldo <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-<p>⭐ Desde 2018 atuando na área de tecnoogia</p>
+<p>⭐ Desde 2018 atuando na área de tecnologia</p>
 <p>🔭 Desenvolvedor - Inforplus</p>
 <p>🎓 Engenharia de Software - Universidade Federal do Ceará</p>
 
